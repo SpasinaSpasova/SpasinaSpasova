@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Spasina Spasova and I live in Plovdiv, Bulgaria. I'm student at Technical University Sofia and in Software University.
+
 - 🔭 I’m currently working on myself to become better than I am
 - 🌱 I’m currently learning in Technical University- Sofia and in SoftUni
 - 💬 Ask me about code in C# and C
