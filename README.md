@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **myself to become better than I am**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SpasinaSpasova](https://github.com/SpasinaSpasova)
-
 - 💬 Ask me about **C# and C code**
 
 - 📫 How to reach me **snikolowa2000@gmail.com**
