@@ -32,5 +32,5 @@
 <a href="https://instagram.com/sspasinna.xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sspasinna.xx" height="30" width="40" /></a>
 </p>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/spasina-spasova-b69b9021a/)
 &nbsp;
