@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Spasina Spasova</h1>
 <h3 align="center">I'm an engineer student from Bulgaria</h3>
 
-curl https://profile-counter.glitch.me/{SpasinaSpasova}/count.svg
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 - 🔭 I’m currently working on **myself to become better than I am**
 
