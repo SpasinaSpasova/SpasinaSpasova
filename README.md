@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Spasina Spasova</h1>
 <h3 align="center">I'm an engineer student from Bulgaria</h3>
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/SpasinaSpasova/git-badges)](https://badges.SpasinaSpasova.dev)
 
 - 🔭 I’m currently working on **myself to become better than I am**
 
