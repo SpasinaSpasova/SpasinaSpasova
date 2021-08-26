@@ -32,7 +32,10 @@
 <a href="https://instagram.com/sspasinna.xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sspasinna.xx" height="30" width="40" /></a>
 </p>
 
-
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/SpasinaSpasova"
 
 
 
