@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Spasina Spasova</h1>
 <h3 align="center">I'm an engineer student from Bulgaria</h3>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/img>
+
 - 🔭 I’m currently working on **myself to become better than I am**
 
 - 💬 Ask me about **C# and C code**
