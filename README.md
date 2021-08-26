@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Spasina Spasova</h1>
 <h3 align="center">I'm an engineer student from Bulgaria</h3>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/img>
+<a target="blank"><img align="center" src="https://i.pinimg.com/736x/f5/b0/45/f5b045627b6c125e500fc02f42d79763.jpg" height="30" width="40" /></a>
 
 - 🔭 I’m currently working on **myself to become better than I am**
 
