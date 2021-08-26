@@ -30,10 +30,10 @@
 <p align="left">
   
 <a href="https://instagram.com/sspasinna.xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sspasinna.xx" height="30" width="40" /></a>
-</p>
+
 
 <a href="https://www.linkedin.com/in/spasina-spasova-b69b9021a/" target="blank"><img align="center" src="https://testingsaas.nl/wp-content/uploads/2020/09/Linkedin-Logo.png" height="39" width="49" /></a>
-</p>
+
 
 <a href="https://www.facebook.com/profile.php?id=100027966755531" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/600px-Facebook_icon.svg.png" height="30" width="40" /></a>
 </p>
