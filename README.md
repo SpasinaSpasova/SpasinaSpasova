@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Spasina Spasova</h1>
 <h3 align="center">I'm an engineer student from Bulgaria</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/{SpasinaSpasova}/count.svg)
+curl https://profile-counter.glitch.me/{SpasinaSpasova}/count.svg
 
 - 🔭 I’m currently working on **myself to become better than I am**
 
