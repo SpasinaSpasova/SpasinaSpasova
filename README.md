@@ -35,3 +35,5 @@
 <a href="https://www.linkedin.com/in/spasina-spasova-b69b9021a/" target="blank"><img align="center" src="https://testingsaas.nl/wp-content/uploads/2020/09/Linkedin-Logo.png" height="39" width="49" /></a>
 </p>
 
+<a href="https://www.facebook.com/profile.php?id=100027966755531" target="blank"><img align="center" src="https://www.questionpro.com/blog/wp-content/uploads/2016/02/facebook-logo.jpg" height="39" width="49" /></a>
+</p>
