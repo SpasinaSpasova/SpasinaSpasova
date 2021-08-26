@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Spasina Spasova</h1>
 <h3 align="center">I'm an engineer student from Bulgaria</h3>
 
-[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/372372861/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/372372861/week.md)
+[![Image of my-profile-views-counter](https://github.com/SpasinaSpasova/my-profile-views-counter/blob/master/svg/372372861/badge.svg)](https://github.com/SpasinaSpasova/my-profile-views-counter/blob/master/readme/372372861/week.md)
 
 - 🔭 I’m currently working on **myself to become better than I am**
 
