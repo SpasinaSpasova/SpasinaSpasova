@@ -33,10 +33,6 @@
 </p>
 
 [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/SpasinaSpasova"
-
-
-
-
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://www.linkedin.com/in/spasina-spasova-b69b9021a/"
