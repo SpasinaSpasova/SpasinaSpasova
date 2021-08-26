@@ -32,5 +32,8 @@
 <a href="https://instagram.com/sspasinna.xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sspasinna.xx" height="30" width="40" /></a>
 </p>
 
+<a href="https://www.linkedin.com/in/spasina-spasova-b69b9021a/" target="blank"><img align="center" src="https://jungletopp.com/wp-content/uploads/2020/12/linkedin-101-hero@2x.png" alt="spasina-spasova" height="30" width="40" /></a>
+</p>
+
 [![Linkedin](https://jungletopp.com/wp-content/uploads/2020/12/linkedin-101-hero@2x.png)](https://www.linkedin.com/in/spasina-spasova-b69b9021a/)
 &nbsp;
