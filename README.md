@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Spasina Spasova</h1>
-<h3 align="center">I'm an engineer student from Bulgaria</h3>
+<h3 align="center">I am a computer systems and technology student from Bulgaria.</h3>
 
 <p align="center">
   <img width="400" height="300" src="https://media.istockphoto.com/vectors/young-female-character-writing-code-on-a-desktop-computer-working-vector-id1219473620?k=6&m=1219473620&s=612x612&w=0&h=TIzfwlAKxlIfqE4mvf5qffELRfbP8pkJgttiM3bzUR4=">
