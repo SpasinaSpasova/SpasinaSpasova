@@ -30,12 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
 <a href="https://instagram.com/sspasinna.xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sspasinna.xx" height="30" width="40" /></a>
-
-
 <a href="https://www.linkedin.com/in/spasina-spasova-b69b9021a/" target="blank"><img align="center" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" height="39" width="49" /></a>
-
-
 <a href="https://www.facebook.com/profile.php?id=100027966755531" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" height="30" width="40" /></a>
 </p>
