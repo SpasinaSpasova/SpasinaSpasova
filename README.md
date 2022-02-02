@@ -37,5 +37,5 @@
 <a href="https://www.linkedin.com/in/spasina-spasova-b69b9021a/" target="blank"><img align="center" src="https://testingsaas.nl/wp-content/uploads/2020/09/Linkedin-Logo.png" height="39" width="49" /></a>
 
 
-<a href="https://www.facebook.com/profile.php?id=100027966755531" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/04/Popular-Logo-facebook-icon-png.png" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100027966755531" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" height="30" width="40" /></a>
 </p>
