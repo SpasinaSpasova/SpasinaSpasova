@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **myself to become better than I am**
 
-- 💬 Ask me about **C# and C code**
-
 - 📫 How to reach me **snikolowa2000@gmail.com**
 
 - ⚡ Fun fact: 
@@ -39,5 +37,5 @@
 <a href="https://www.linkedin.com/in/spasina-spasova-b69b9021a/" target="blank"><img align="center" src="https://testingsaas.nl/wp-content/uploads/2020/09/Linkedin-Logo.png" height="39" width="49" /></a>
 
 
-<a href="https://www.facebook.com/profile.php?id=100027966755531" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/600px-Facebook_icon.svg.png" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100027966755531" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/04/Popular-Logo-facebook-icon-png.png" height="30" width="40" /></a>
 </p>
